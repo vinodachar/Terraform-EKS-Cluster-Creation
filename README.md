@@ -22,7 +22,3 @@ YouTube Link: [Click here to watch the video](https://www.youtube.com/watch?v=DV
 
 ---
 
-## 💬 Feedback Request
-
-After successfully completing this tutorial, I’d love to hear your thoughts! Share your experience on LinkedIn and include the project link. Don’t forget to **tag me** to help spread the word and inspire other DevOps enthusiasts! 🌟
-
